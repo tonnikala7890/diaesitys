@@ -1,0 +1,9 @@
+O-JÄRJESTÖ 4K MEGAREALISTINEN ESITYSSIVUSTO & 3D LINNA (14 SIVUA)
+=================================================================
+Tämä ZIP-paketti sisältää:
+1. index.html - Täydellinen 14-sivuinen 4K-sivusto ja Sivun 14 3D Pöllöjen Linna
+2. style.css  - Sivuston 4K-ulkoasu ja animaatiot
+3. script.js  - 3D-moottori, ääniefektit, aseet ja salaisuudet
+
+Käyttöohje:
+Pura ZIP-tiedosto omalle tietokoneellesi ja tuplaklikkaa 'index.html'!
